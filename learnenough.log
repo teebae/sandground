@@ -1,0 +1,11 @@
+
+Pinging learnenough.com [104.25.168.34] with 32 bytes of data:
+Reply from 104.25.168.34: bytes=32 time=242ms TTL=54
+Reply from 104.25.168.34: bytes=32 time=232ms TTL=54
+Reply from 104.25.168.34: bytes=32 time=225ms TTL=54
+Reply from 104.25.168.34: bytes=32 time=223ms TTL=54
+
+Ping statistics for 104.25.168.34:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 223ms, Maximum = 242ms, Average = 230ms
